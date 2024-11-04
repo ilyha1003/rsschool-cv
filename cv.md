@@ -27,3 +27,16 @@ A young and diligent person with good interpersonal skills, as I hold a leadersh
 
 ## Projects
 * [Travel Together](https://ilyha1003.github.io/HostingDiploma/)
+
+## Education
+* BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS, electronics engineer-programmer
+
+## Language Skills
+* English: B1
+* Russian: Native
+* Belorussian: Native
+
+## Hobbies
+* Volleyball 
+* Gym
+* Coding
