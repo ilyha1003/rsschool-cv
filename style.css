@@ -34,27 +34,27 @@ section {
     font-weight: 400;
 }
 
-.contacts, .about,.skills, .code-example {
+.contacts, .about,.skills, .code-example, .courses, .projects, .education, .language-skills, .hobbies {
     margin-top: 30px;
 }
 
-.contacts-header, .about-header, .skills-header, .code-header {
+.contacts-header, .about-header, .skills-header, .code-header, .courses-header,.projects-header, .education-header, .language-header, .hobbies-header {
     font-size: 32px;
     font-weight: 400;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.contacts__list, .skills__list {
+.contacts__list, .skills__list, .language__list, .hobbies__list {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.contacts-list__element, .skills-list__element {
+.contacts-list__element, .skills-list__element, .language-list__element, .hobbies-list__element {
     font-size: 20px;
 }
 
-.about-info, .code-description {
+.about-info, .code-description, .courses-name, .education-description {
     font-size: 20px;
     margin-top: 10px;
 }
@@ -64,4 +64,18 @@ section {
     padding: 16px;
     background-color: #e0e0e0;
     border-radius: 8px;
+}
+
+.courses-image {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.projects-header {
+    padding-bottom: 10px;
+}
+
+.projects-link {
+    text-decoration: none;
+    font-size: 20px;
 }
